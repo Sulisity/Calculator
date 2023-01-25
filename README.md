@@ -1,8 +1,8 @@
-# Calculator Script
+# <span style="color: green"> Calculator Script </span>
 
 Just copy the lines below and paste it into a new C++ Source File
 
- as easy as that. :coffee:
+ As easy as that. :coffee:
 
 
 
