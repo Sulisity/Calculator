@@ -1,7 +1,8 @@
 # Calculator Script
 
 Just copy the lines below and paste it into a new C++ Source File
-as easy as that. :coffee:
+
+ as easy as that. :coffee:
 
 
 
