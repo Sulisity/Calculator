@@ -24,7 +24,7 @@ It's As easy as that. :coffee:
     cout << "\t2. Pengurangan" << endl;
     cout << "\t3. Perkalian" << endl;
     cout << "\t4. Pembagian" << endl;
-    cout << "Pilih menu: ";
+    cout << "Pilih Menu: ";
     cin >> menu;
     cout << "-------------------------------" << endl;
 
@@ -66,7 +66,7 @@ It's As easy as that. :coffee:
             cout << "Masukan bilangan kedua: ";
             cin >> d;
             hasilbagi = c / d;
-            cout << "-------------------------------:" << endl;
+            cout << "-------------------------------÷" << endl;
             cout << "Hasil:\t\t\t"  << hasilbagi << endl;
             break;
         default:
