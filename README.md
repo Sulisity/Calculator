@@ -4,11 +4,8 @@ Just copy the lines below and paste it into a new C++ Source File
 
 
 
-
-
-
-   #include <iostream>
-   using namespace std;
+    #include <iostream>
+     using namespace std;
 
 int main() {
     int a, b, hasil, menu;
