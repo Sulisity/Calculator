@@ -1,4 +1,4 @@
-# <span style="color: red"> Calculator Script </span>
+  - Calculator Script 
 
 Just copy the lines below and paste it into a new C++ Source File
 
