@@ -1,4 +1,4 @@
- # Program Menghitung Luas Bangun Datar
+   # Program Menghitung Luas Bangun Datar
 
 Just copy the lines below and paste it into a new C++ Source File
 
@@ -8,10 +8,11 @@ It's As easy as that. :coffee:
 
 
 
-#include <conio.h>
-#include <stdio.h>
+        #include <conio.h>
+        
+	#include <stdio.h>
 
-main(void) { //deklarasi variabel
+        main(void) { //deklarasi variabel
 	int pilih;//inisialisasi variabel inputan pemilihan switch case 
 	char ulang;//inisialisasi variabel inputan pengulangan goto 
 	float jari, panjang, lebar, sisi, alas, tinggi;//inisialisasi variabel inputan 
