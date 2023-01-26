@@ -9,8 +9,7 @@ It's As easy as that. :coffee:
 
 
         #include <conio.h>
-        
-	#include <stdio.h>
+        #include <stdio.h>
 
         main(void) { //deklarasi variabel
 	int pilih;//inisialisasi variabel inputan pemilihan switch case 
