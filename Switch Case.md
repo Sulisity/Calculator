@@ -7,11 +7,11 @@ It's As easy as that. :coffee:
 
 
 
-              #include <iostream> 
-              using namespace std;
+        #include <iostream> 
+        using namespace std;
 
-              int main()
-         {
+        int main()
+     {
 	char nilai;
 	
 	cout << "Input Nilai Anda (A - E): ";
